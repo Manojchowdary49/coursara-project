@@ -1,0 +1,14 @@
+{
+  "name": "coursera-cicd-project",
+  "version": "1.0.0",
+  "description": "CI/CD Final Project using GitHub Actions, Tekton and OpenShift",
+  "main": "app.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "jest": "^29.0.0"
+  }
+}
